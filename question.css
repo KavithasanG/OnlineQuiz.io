@@ -1,0 +1,21 @@
+h2{
+    color: blue;
+}
+p{
+    margin-left: 110px;
+}
+
+div{
+    border: 1px solid black;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+#time{
+    font-size: 20px;
+    background-color: cadetblue;
+    border-radius: 5px;
+    padding: 30px;
+    margin-top: 10px;
+}
